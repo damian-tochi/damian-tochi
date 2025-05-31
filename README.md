@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">I'm Damian Tochukwu, a native Android and iOS developer with expertise in cross-platform mobile development using Flutter. I also have strong experience in frontend and backend engineering, working with frameworks such as NestJS, Java, Python, and Flask. In addition, I'm passionate about Natural Language Processing (NLP) and continually explore its applications and advancements.</h3>
+<h1 align="center">Hi 👋, I'm Damian Tochukwu</h1>
+<h3 align="center">A native Android and iOS developer with expertise in cross-platform mobile development using Flutter. I also have strong experience in frontend and backend engineering, working with frameworks such as NestJS, Java, Python, and Flask. In addition, I'm passionate about Natural Language Processing (NLP) and continually explore its applications and advancements.</h3>
 
 - 🌱 I'm currently exploring **Cybersecurity** —not necessarily for a career change, but to strengthen my understanding of secure coding practices and enhance the security of the apps I build.
 
