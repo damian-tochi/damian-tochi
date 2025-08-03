@@ -49,6 +49,6 @@ A Mobile Engineer passionate about building high-performance Android and iOS app
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
