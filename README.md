@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Damian Tochukwu</h1>
-<h3 align="center">A native Android and iOS developer with expertise in cross-platform mobile development using Flutter. I also have strong experience in frontend and backend engineering, working with frameworks such as NestJS, Java, Python, and Flask. In addition, I'm passionate about Natural Language Processing (NLP) and continually explore its applications and advancements.</h3>
-
-- 🌱 I'm currently exploring **Cybersecurity** —not necessarily for a career change, but to strengthen my understanding of secure coding practices and enhance the security of the apps I build.
+<h3 align="center">A Mobile Engineer passionate about building high-performance Android and iOS apps using **Kotlin**, **SwiftUI**, and **Flutter**. With 6+ years of experience, I’ve worked across fintech, entertainment, and productivity domains, shipping apps with over **600k+ downloads**. I also have experience in frontend and backend engineering, working with frameworks such as NestJS, Java, Python, and Flask. In addition, I'm passionate about Natural Language Processing (NLP) and continually explore its applications and advancements.</h3>
 
 - 👨‍💻 All of my projects are available at [https://damian-tochi.github.io/portfolio_web/](https://damian-tochi.github.io/portfolio_web/)
 
-- 💬 Ask me about **Flutter, Kotlin, Java and Python**
+💼 Previously at:
+- **Xanadu** – Building scalable fintech mobile infrastructure (Android, CI/CD).
+- **Groove.ng** – Led Android dev for the *uduX* entertainment app.
+- **Grynd Tech Inc.** – Native Kotlin apps with solid architecture and testing.
+- **HyCab, KPIE, Hotels.ng,** and more – Clean UI, performant code, fast delivery.
 
-- 📫 How to reach me **nkwocha.damian@gmail.com**
+🔧 I’m interested in:
+- **Offline-first architecture**
+- **Clean MVVM/Composable UIs**
+- **AI/ML integrations in mobile**
+- **Cross-chain smart contract tooling**
+
+
+- 📫 How to reach me:
+> 💬  **nkwocha.damian@gmail.com** || [LinkedIn](https://www.linkedin.com/in/nkwocha-damian-tochukwu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
