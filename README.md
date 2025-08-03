@@ -27,7 +27,7 @@ A Mobile Engineer passionate about building high-performance Android and iOS app
 
 ><a href="mailto:nkwocha.damian@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="nkwocha.damian@gmail.com" height="30" width="30" /></a>
 
-><a href="https://linkedin.com/in/https://www.linkedin.com/in/nkwocha-damian-tochukwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nkwocha-damian-tochukwu/" height="30" width="30" /></a>
+><a href="https://www.linkedin.com/in/nkwocha-damian-tochukwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nkwocha-damian-tochukwu/" height="30" width="30" /></a>
 </p> 
 
 ---
