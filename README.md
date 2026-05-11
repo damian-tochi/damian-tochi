@@ -1,42 +1,174 @@
 <h1 align="center">👋  I'm Damian</h1>
-A Mobile Engineer passionate about building high-performance Android and iOS apps using <b>Kotlin</b>, <b>SwiftUI</b>, and <b>Flutter</b>. With 6+ years of experience, I’ve worked across fintech, entertainment, and productivity domains, shipping apps with over <b>600k+ downloads</b>. I also have experience in frontend and backend engineering, working with frameworks such as NestJS, Java, Python, and Flask. In addition, I'm passionate about Natural Language Processing (NLP) and continually explore its applications and advancements.
+<div align="center">
 
-<p/>
-  
->👨‍💻 My projects are available at [https://damian-tochi.github.io/portfolio_web/](https://damian-tochi.github.io/portfolio_web/)
+<a href="mailto:nkwocha.damian@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://damian-tochi.github.io/portfolio_web/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/nkwocha-damian-tochukwu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- <a href="https://github.com/damian-tochi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a> -->
+
+
+</div>
+<div align="center">
+
+### Software Engineer • Android Specialist • Systems Builder
+
+Building high-performance mobile products, scalable backend systems, and thoughtful user experiences.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Mobile+Specialist;Android+Specialist;Systems+Engineer;Performance+Focused+Builder;AI%2FML+Explorer" />
+
+</div>
 
 ---
 
+```kotlin
+val damian = engineer {
+    experience = "7+ years"
+    specialization = "Android, Flutter & scalable systems"
+
+    domains = listOf(
+        "Fintech",
+        "Entertainment",
+        "Lifestyle",
+        "Productivity"
+    )
+
+    impact = "600k+ app downloads"
+
+    stack = listOf(
+        "Kotlin",
+        "Jetpack Compose",
+        "Java",
+        "Flutter",
+        "Dart",
+        "ReactNative",
+        "NestJS",
+        "React",
+        "Next.js",
+        "Python"
+    )
+}
+```
+---
 💼 Previously at:
-- **Xanadu** – Building scalable fintech mobile infrastructure (Android, CI/CD).
-- **Groove.ng** – Android & Flutter dev for the *uduX* entertainment app.
-- **Grynd Tech Inc.** – Native Kotlin apps with solid architecture and testing.
-- **HyCab, KPIE, Hotels.ng,** and more – Clean UI, performant code, fast delivery.
+<table>
+  <tr>
+    <td width="50%">
+
+## 🏦 EasySpend  
+### Fintech Infrastructure
+
+**Flutter**
+
+Engineered high-traffic fintech infrastructure with a focus on transactional security, reliability, and performance optimization. Streamlined deployment workflows through automated CI/CD pipelines.
+
+</td>
+
+<td width="50%">
+
+## 🏦 Xanadu  
+### Digital Banking Systems
+
+**Flutter**
+
+Architected scalable mobile banking systems with emphasis on modular architecture, maintainability, and responsiveness for large-scale user bases.
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+
+## 🎵 Groove.ng (uduX)  
+### Multimedia & Product Engineering
+
+**Kotlin • Flutter**
+
+Developed immersive media experiences and custom UI systems for the uduX streaming platform. Iterated rapidly on product features to improve engagement and retention.
+
+</td>
+
+<td width="50%">
+
+## ⚙️ Grynd Tech Inc.  
+### Native Android Engineering
+
+**Kotlin**
+
+Built robust native Android applications using MVVM architecture, modular system design, and reliability-focused engineering practices.
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+
+## 🚀 K-PIE Trades  
+### Cross-Platform Product Development
+
+Contributed to the development of multiple products including:
+
+- DeloniferaTV
+- BlueCall
+- MySchoolLibrary
+- SellFinish
+- KPIE Trading Platform
+
+</td>
+
+<td width="50%">
+
+## 🧩 Collaborations  
+### Startups & Early-Stage Projects
+
+Worked with teams and companies including:
+
+- Hotels.ng
+- HyCab
+- Stealth-stage startups
+
+Focused on rapid prototyping, product iteration, and scalable engineering practices.
+
+</td>
+  </tr>
+</table>
 
 ---
 
-🔧 I’m interested in:
-- **Offline-first architecture**
-- **Clean MVVM/Composable UIs**
-- **AI/ML integrations in mobile**
-- **Cross-chain smart contract tooling**  </br>
 
 ---
 
-📫 Reach me:
+# ⚡ Projects 
 
-><a href="mailto:nkwocha.damian@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="nkwocha.damian@gmail.com" height="30" width="30" /></a>
+### CommPath
+A Kotlin-based communication layer for multi-module Android systems, designed to simplify interaction between isolated modules through a unified entry-point abstraction.
+[ View Project](https://github.com/damian-tochi/commPath)
 
-><a href="https://www.linkedin.com/in/nkwocha-damian-tochukwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nkwocha-damian-tochukwu/" height="30" width="30" /></a>
-</p> 
+### NameForge
+A Kotlin Multiplatform utility for generating intelligent, structured, low-collision username suggestions with consistent formatting and real-time responsiveness.
+[ View Project](https://github.com/damian-tochi/nameForge)
+
+### QuickAnim
+An Android animation utility for simplifying View and RecyclerView motion handling, reducing boilerplate for common UI transitions and effects.
+[ View Project](https://github.com/damian-tochi/quickAnim)
 
 ---
 
-📦 Languages and Tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/flask.png" alt="flask" width="40" height="40"/> </a> </p> </br>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=damian-tochi&theme=tokyo-night&hide_border=true" /> </div>
 
 ---
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
