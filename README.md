@@ -1,4 +1,4 @@
-<h1 align="center">👋  I'm Damian (not Groot) </h1>
+<h1 align="center"> Damian Tochukwu </h1>
 <div align="center">
 
 <a href="mailto:nkwocha.damian@gmail.com">
