@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://damian-tochi.github.io/portfolio_web/">
+<a href="https://damian-tochi.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/nkwocha-damian-tochukwu/">
