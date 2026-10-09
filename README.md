@@ -20,12 +20,11 @@
 </div>
 <div align="center">
 
-### Software Engineer • Android Specialist • Systems Builder
+### Software Engineer • Mobile & Full-Stack • Security-Minded Engineer
 
-Building high-performance mobile products, scalable backend systems, and thoughtful user experiences.
+Building scalable, high-performance software across mobile, web, and backend systems, with a focus on reliability, security, and AI-powered experiences.
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Mobile+Specialist;Android+Specialist;Systems+Engineer;Performance+Focused+Builder;AI%2FML+Explorer" /> -->
-
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Mobile+%26+Full-Stack+Engineer;Android+%26+Kotlin+Specialist+(currently+de-rusting+:D);Scalable+Systems;Application+%26+Data+Security;AI-Powered+Product+Engineering" />
 </div>
 
 ---
@@ -33,28 +32,41 @@ Building high-performance mobile products, scalable backend systems, and thought
 ```kotlin
 val damian = engineer {
     experience = "7+ years"
-    specialization = "Android, Flutter & scalable systems"
+
+    specialization = "Mobile, Full-Stack & Security Engineering"
 
     domains = listOf(
-        "Fintech",
-        "Entertainment",
-        "Lifestyle",
-        "Productivity"
+        "Fintech & Digital Banking",
+        "Media & Entertainment",
+        "Enterprise Software",
+        "AI-powered Products"
     )
 
-    impact = "600k+ app downloads"
+    impact = "900K+ app downloads"
 
     stack = listOf(
         "Kotlin",
-        "Jetpack Compose",
         "Java",
+        "Jetpack Compose",
+        "SwiftUI",
         "Flutter",
         "Dart",
-        "ReactNative",
-        "NestJS",
+        "Kotlin Multiplatform",
         "React",
+        "React Native",
         "Next.js",
+        "Node.js",
+        "NestJS",
         "Python"
+    )
+
+    interests = listOf(
+        "Scalable Systems",
+        "Application & Data Security",
+        "System & Network Security",
+        "API Governance",
+        "AI Integration",
+        "System Architecture"
     )
 }
 ```
